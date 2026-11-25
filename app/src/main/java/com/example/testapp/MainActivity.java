@@ -23,7 +23,7 @@ public class MainActivity extends Activity {
         myWebView.setWebViewClient(new WebViewClient());
 
         // અહીં તમારું IP અથવા લાઈવ URL સેટ કરેલું છે
-        myWebView.loadUrl("http://192.168.2.50/Dukan_Na_Dware_Clean_Production/public_html/");
+        myWebView.loadUrl("http://192.168.2.50/Dukan_Na_Dware_Clean_Production/public_html/index.php");
     }
 
     @Override
