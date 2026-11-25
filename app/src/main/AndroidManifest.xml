@@ -5,7 +5,7 @@
 
     <application
         android:allowBackup="true"
-        android:label="My Test App"
+        android:label="DND Vendor Dashboard"
         android:supportsRtl="true"
         android:theme="@android:style/Theme.Light.NoTitleBar"
         android:usesCleartextTraffic="true">
